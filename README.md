@@ -19,7 +19,7 @@ The model is trained using transfer learning (InceptionV3) and achieves high acc
 
 The dataset used in this project is sourced from Kaggle:
 
-🔗 [Face Mask Detection Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
+[Face Mask Detection Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 
 ### Details:
 - Two classes:
@@ -60,3 +60,4 @@ cd face-mask-detection
 ```bash
 pip install -r requirements.txt
 ```
+
